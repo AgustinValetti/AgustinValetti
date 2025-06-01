@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="350" height="350" /></p>
 
 
 - 🌱 I’m front end developer and currently  learning programming languages
@@ -63,16 +63,17 @@
   <br>
 <br>
 <h3>Statistical Data :-</h3>
-<p><img align="center"
+
+<div style="display: flex; justify-content: center; align-items: center;>
+    <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=AgustinValetti&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AgustinValetti&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
-
+</div>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinValetti&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
 
-<br>
