@@ -7,11 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=AgustinValetti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<br>
 
-<p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="350" height="350" alt="coding animation" />
-</p>
+
 
 ---
 
