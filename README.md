@@ -15,7 +15,7 @@
 ### 🌱 About Me
 
 - 💻 I’m a front-end developer and currently learning programming languages  
-- 📫 How to reach me: **valetti.agustin@gmail.com**
+- 📫 How to reach me: **valettiagustin@gmail.com**
 
 ---
 
